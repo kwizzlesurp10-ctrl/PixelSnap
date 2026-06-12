@@ -1,0 +1,1 @@
+(standard - rootProject.name = "PixelSnap")

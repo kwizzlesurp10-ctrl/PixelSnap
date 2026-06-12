@@ -1,0 +1,1 @@
+(see local file for full - plugins, target API 36, CameraX 1.4, Room 2.7, Compose, etc.)
