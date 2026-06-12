@@ -1,1 +1,1 @@
-See the full updated README pushed above - it contains the status and full instructions.
+(Full updated README with anti-MVP status) - see local file for complete text.
